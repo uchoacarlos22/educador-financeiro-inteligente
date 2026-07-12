@@ -2,6 +2,10 @@
 
 > Um educador financeiro inteligente que utiliza Inteligência Artificial para gerar diagnósticos financeiros personalizados, sugestões práticas e planos de ação com base na realidade financeira do usuário.
 
+O Planej.ai é uma aplicação web de planejamento financeiro pessoal. O usuário preenche um formulário com informações sobre sua renda, gastos e uma meta financeira (como uma viagem ou a compra de um bem), e a aplicação usa inteligência artificial para gerar um diagnóstico personalizado com sugestões práticas, ideias de renda extra e um plano de ação.
+
+Tudo funciona diretamente no navegador: sem backend, sem banco de dados remoto. Os dados são salvos no localStorage e as análises são geradas em tempo real pela API do Google Gemini.
+
 <p align="center">
 
 **React 19 • TypeScript • Vite • Tailwind CSS v4 • Google Gemini**
@@ -426,12 +430,13 @@ Engenheiro de Software Frontend especializado em React, Angular e TypeScript.
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais como parte do desafio da DIO.
+Este projeto foi desenvolvido para fins educacionais como parte do desafio da DIO em parceria com o Santander.
 
 ---
 
 ## 🙏 Agradecimentos
 
-- [Google Gemini API](https://ai.google.dev/) — Por fornecer a API de IA
 - [DIO](https://www.dio.me/) — Pela plataforma de aprendizado e desafio
+- [SantanderOpenAcademy](https://www.santanderopenacademy.com/) — Pela plataforma de bolsas e oportunidades de aprendizado
+- [Google Gemini API](https://ai.google.dev/) — Por fornecer a API de IA
 - [React Community](https://react.dev/) — Pela excelente documentação
